@@ -25,7 +25,7 @@ install-script: |
     pkgarch="i386"
   fi
 
-  version="5.0.11.10914"
+  version="5.1.0.12682"
   pkg=pylon_${version}-deb0_${pkgarch}.deb
   url="https://www.baslerweb.com/media/downloads/software/pylon_software/${pkg}"
 
